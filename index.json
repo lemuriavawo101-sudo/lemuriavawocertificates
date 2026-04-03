@@ -118,5 +118,13 @@
                 "type": "pdf"
             }
         ]
+    },
+    "TPM440406": {
+        "files": [
+            {
+                "name": "TPM440406-Laksha_V-Grade_1.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 }
