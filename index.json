@@ -62,5 +62,13 @@
                 "type": "pdf"
             }
         ]
+    },
+    "TPM440413": {
+        "files": [
+            {
+                "name": "TPM440413-Yogi_G-Grade_1.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 }
