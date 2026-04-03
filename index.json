@@ -390,5 +390,13 @@
                 "type": "pdf"
             }
         ]
+    },
+    "TPM440370": {
+        "files": [
+            {
+                "name": "TPM440370-Magisha_V-Grade_1.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 }
