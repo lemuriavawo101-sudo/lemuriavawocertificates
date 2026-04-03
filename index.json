@@ -590,5 +590,13 @@
                 "type": "pdf"
             }
         ]
+    },
+    "TPM440345": {
+        "files": [
+            {
+                "name": "TPM440345-Dev_Yaswanth_D_R-Grade_1.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 }
