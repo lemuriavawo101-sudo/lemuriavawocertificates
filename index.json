@@ -70,5 +70,13 @@
                 "type": "pdf"
             }
         ]
+    },
+    "TPM440412": {
+        "files": [
+            {
+                "name": "TPM440412-Thaushik_K-Grade_1.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 }
