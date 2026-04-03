@@ -86,5 +86,13 @@
                 "type": "pdf"
             }
         ]
+    },
+    "TPM440410": {
+        "files": [
+            {
+                "name": "TPM440410-Thaju_S_A-Grade_1.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 }
