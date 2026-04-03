@@ -350,5 +350,13 @@
                 "type": "pdf"
             }
         ]
+    },
+    "TPM440376": {
+        "files": [
+            {
+                "name": "TPM440376-Hushya_D-Grade_1.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 }
