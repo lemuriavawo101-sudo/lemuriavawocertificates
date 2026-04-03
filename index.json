@@ -470,5 +470,13 @@
                 "type": "pdf"
             }
         ]
+    },
+    "TPM440360": {
+        "files": [
+            {
+                "name": "TPM440360-Deja_P-Grade_1.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 }
