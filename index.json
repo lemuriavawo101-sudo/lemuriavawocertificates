@@ -622,5 +622,13 @@
                 "type": "pdf"
             }
         ]
+    },
+    "TPM440341": {
+        "files": [
+            {
+                "name": "TPM440341-Kevin_K-Grade_1.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 }
