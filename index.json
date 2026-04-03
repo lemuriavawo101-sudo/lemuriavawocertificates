@@ -382,5 +382,13 @@
                 "type": "pdf"
             }
         ]
+    },
+    "TPM440372": {
+        "files": [
+            {
+                "name": "TPM440372-Tharshan_T_R-Grade_1.pdf",
+                "type": "pdf"
+            }
+        ]
     }
 }
